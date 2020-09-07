@@ -1,6 +1,6 @@
 # artisticstyleapp
 
-Video demo: ![link](https://pianpwk.github.io/articles/5/page.html)
+Video demo: [link](https://pianpwk.github.io/articles/5/page.html)
 
 ##### App overview
 
