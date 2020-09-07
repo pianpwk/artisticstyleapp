@@ -1,5 +1,6 @@
-# artisticstyleapp
+# Webapp for artwork search from the MET, Rijksmuseum ++
 
+Uses: Flask, PyTorch, Vue.js
 Video demo: [link](https://pianpwk.github.io/articles/5/page.html)
 
 ##### App overview
